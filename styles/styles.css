@@ -1,0 +1,39 @@
+body {
+  background-color: none;
+}
+
+.quotes {
+  /*height: 50px;*/
+  border-style: solid;
+  border-color: grey;
+  border-width: thin;
+  border-bottom-width: thick;
+  border-right-width: thick;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  display: block;
+  position: relative;
+  text-align: center;padding: 10px;
+  padding: 20px;
+  }
+
+
+.button {
+  /*width: 10px;*/
+  height: 10px;
+  padding: 10px;
+  display: inline-block;
+  /*float: right;*/
+  border-style: solid;
+  border-radius: 100%;
+  background-color: black;
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+  color: white;
+}
+
+.newInput {
+   /*border: 0px solid;*/
+   font-size: 1em;
+}
